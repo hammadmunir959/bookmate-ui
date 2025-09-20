@@ -1,6 +1,5 @@
 name = "bookmate-frontend"
 compatibility_date = "2025-09-20"
 
-[site]
+[pages]
 bucket = "./dist"
-entry-point = "workers-site"
