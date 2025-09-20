@@ -1,5 +1,5 @@
 name = "bookmate-frontend"
 compatibility_date = "2025-09-20"
 
-[pages]
+[site]
 bucket = "./dist"
